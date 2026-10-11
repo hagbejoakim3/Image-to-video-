@@ -1,0 +1,6 @@
+{
+  "name": "PhotoParle",
+  "description": "Transformez vos photos en vidéos parlantes animées avec synthèse vocale et synchronisation labiale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
